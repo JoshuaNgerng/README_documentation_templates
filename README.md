@@ -17,4 +17,3 @@ This repository contains template README files that you can copy and customize f
 
 Feel free to submit your own templates via pull request or suggest improvements to existing ones. The more robust and versatile this library becomes, the easier it will be for everyone to create great documentation.
 
-
